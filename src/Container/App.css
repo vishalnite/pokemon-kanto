@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Pokemon';
+    src: url('CartoonComScriptRegular.TTF');
+}
+
+p, h1 {
+    font-family: Pokemon;
+    color: #0d24bc;
+}
+
