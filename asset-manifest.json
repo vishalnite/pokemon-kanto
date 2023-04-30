@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pokemon-kanto/static/css/main.5ef5adf7.css",
-    "main.js": "/pokemon-kanto/static/js/main.c7fb4f6e.js",
+    "main.js": "/pokemon-kanto/static/js/main.8f00f84b.js",
     "static/js/787.2394680b.chunk.js": "/pokemon-kanto/static/js/787.2394680b.chunk.js",
     "static/media/pokemon-logo-size.png": "/pokemon-kanto/static/media/pokemon-logo-size.e4c46579f785052f01bc.png",
     "static/media/CartoonComScriptRegular.TTF": "/pokemon-kanto/static/media/CartoonComScriptRegular.16e22ed6668e1104af62.TTF",
     "index.html": "/pokemon-kanto/index.html",
     "main.5ef5adf7.css.map": "/pokemon-kanto/static/css/main.5ef5adf7.css.map",
-    "main.c7fb4f6e.js.map": "/pokemon-kanto/static/js/main.c7fb4f6e.js.map",
+    "main.8f00f84b.js.map": "/pokemon-kanto/static/js/main.8f00f84b.js.map",
     "787.2394680b.chunk.js.map": "/pokemon-kanto/static/js/787.2394680b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ef5adf7.css",
-    "static/js/main.c7fb4f6e.js"
+    "static/js/main.8f00f84b.js"
   ]
 }
